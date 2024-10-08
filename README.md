@@ -15,10 +15,12 @@ About me:
         It's about facing various challenges that make our existence fascinating and vibrant.
         Having a companion on this journey would be absolutely wonderful.
 
+
   
-“📫 How to reach me : Email: nghoanganhhuyhctp@gmail.com                       
-“🌟 Pronouns: He/Him”
-“⚡ Fun Fact: I can recite the entire Python Zen while juggling three rubber ducks!”
+“📫 How to reach me : Email: nghoanganhhuyhctp@gmail.com                      
+“🌟 Pronouns: He/Him 
+
+"⚡ Fun Fact: I can recite the entire Python Zen while juggling three rubber ducks!
 
 <!---
 huyitgit/huyitgit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
